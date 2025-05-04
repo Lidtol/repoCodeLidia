@@ -1,6 +1,7 @@
+
 (B) Modificació 02 Main Lidia
 (C) Benvinguda a la branca02 Lidia
 (E) Afegim imatge a branca01 Lidia
-
+(F) Afegim imatge a branca02 Lidia
 
 
