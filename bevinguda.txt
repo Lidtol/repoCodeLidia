@@ -1,1 +1,5 @@
 (B) Modificació 02 Main Lidia
+
+(E) Afegim imatge a branca01 Lidia
+
+
